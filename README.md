@@ -4,6 +4,13 @@ A deep learning project to classify the sentiment of IMDB movie reviews as **Pos
 
 ---
 
+## 🚀 Live Demo
+
+Check out the live Streamlit app here:  
+👉 **[IMDB Sentiment Analysis Web App](https://movie-review-sentiment-analysis-rnn-dl.streamlit.app/)**
+
+---
+
 ## 🧩 Features
 - Takes movie review text as input.
 - Preprocesses input using IMDB word index mapping and padding.
